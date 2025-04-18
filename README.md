@@ -13,7 +13,6 @@ portfolio-webflow/
 ├── index.html        # Home page
 ├── about.html        # About page
 ├── projects.html     # Projects showcase
-├── blog.html         # Blog section
 └── contact.html      # Contact page
 ```
 
@@ -23,7 +22,6 @@ portfolio-webflow/
 - Modern and clean user interface
 - Interactive project showcase
 - Contact form for easy communication
-- Blog section for sharing insights
 - About section highlighting skills and experience
 
 ## Getting Started
@@ -49,7 +47,6 @@ portfolio-webflow/
 - **Home**: Landing page with introduction and featured work
 - **About**: Professional background and skills
 - **Projects**: Portfolio of work and case studies
-- **Blog**: Articles and insights
 - **Contact**: Get in touch form
 
 ## Contributing

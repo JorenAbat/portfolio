@@ -1,5 +1,6 @@
 # Specific files to ignore
 blog.html
+blog/
 
 # Operating System Files
 .DS_Store
