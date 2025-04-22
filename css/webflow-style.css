@@ -2,10 +2,12 @@ html {
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
   font-family: sans-serif;
+  overflow-x: hidden;
 }
 
 body {
   margin: 0;
+  overflow-x: hidden;
 }
 
 article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
@@ -3279,7 +3281,7 @@ blockquote {
   grid-column-gap: 1rem;
   grid-row-gap: 1rem;
   grid-template-rows: auto;
-  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
   width: 100%;
 }
 
@@ -4829,7 +4831,7 @@ blockquote {
 }
 
 #w-node-a2dc61e3-642b-19bb-aaf9-f879aa40723e-38b55cbf {
-  grid-area: 9 / 1 / 11 / 7;
+  grid-area: 9 / 1 / 11 / 8;
 }
 
 #w-node-a2dc61e3-642b-19bb-aaf9-f879aa407240-38b55cbf {
@@ -4841,7 +4843,7 @@ blockquote {
 }
 
 #w-node-a2dc61e3-642b-19bb-aaf9-f879aa407250-38b55cbf {
-  grid-area: 9 / 7 / 11 / 13;
+  grid-area: 9 / 8 / 9 / 13;
 }
 
 #w-node-a2dc61e3-642b-19bb-aaf9-f879aa407252-38b55cbf {
@@ -4897,7 +4899,7 @@ blockquote {
 
   #w-node-e1c91d1b-8c74-e4cf-6f13-5aa692981e05-38b55cb1 {
     grid-row: 3 / 5;
-    grid-column-end: 6;
+    grid-column-end: 13;
   }
 
   #w-node-_054f33e8-86c0-afcf-c19a-f24529fdbc05-38b55cb1 {
@@ -5537,6 +5539,7 @@ blockquote {
   font-size: 24px;
   font-weight: 600;
   letter-spacing: 1px;
+  line-height: 1.5;
   opacity: 0.9;
 }
 
